@@ -2,6 +2,11 @@
 
 A Streamlit application to visualize your Discord data export locally.
 
+## Privacy & Security
+
+*   **Local Use (Recommended):** When running locally with `run_app.bat`, **all data stays on your computer**. The Python script runs on your machine, and your files never leave your hard drive.
+*   **Cloud Deployment:** If you deploy this code to Streamlit Cloud or another server, your data **will be uploaded** to that server to be processed. For strict privacy, run this application locally.
+
 ## Setup
 
 1.  Run `run_app.bat` to install dependencies and launch the app.
