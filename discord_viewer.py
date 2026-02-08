@@ -696,8 +696,8 @@ def main():
         3.  **Upload**: Drag and drop the ZIP file into the sidebar 👈.
         
         **🔒 Privacy Note:**
-        *   All processing happens **locally** on your computer.
-        *   Your data is **never** uploaded to any external server.
+        *   All processing happens on a stremlit server.
+        *   Your data is **temporary** uploaded to an external server.
         *   Temporary files are deleted when you restart the app or clear the cache.
         """)
 
