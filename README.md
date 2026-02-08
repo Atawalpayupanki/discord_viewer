@@ -19,7 +19,7 @@ Since you don't have the GitHub CLI installed, follow these steps to upload this
 6.  Copy the commands under "…or push an existing repository from the command line". It will look like this:
 
     ```bash
-    git remote add origin https://github.com/YOUR_USERNAME/discord-data-viewer.git
+    git remote add origin https://github.com/YOUR_USERNAME/discord_viewer.git
     git branch -M main
     git push -u origin main
     ```
